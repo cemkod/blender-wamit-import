@@ -1,0 +1,23 @@
+# Blender WAMIT Addon
+
+## Description
+This addon provides import functionality for WAMIT gdf files.
+
+## Features
+- Import geometry data from WAMIT into Blender
+
+## Installation
+1. Download the latest release of the addon from the [GitHub repository](https://github.com/cemkod/blender-wamit-import).
+2. In Blender, go to Edit > Preferences > Add-ons.
+3. Click on the "Install..." button and select the downloaded addon file.
+4. Enable the addon by checking the checkbox next to its name.
+
+## Usage
+1. Open Blender and create or open a project.
+2. Go to File -> Import -> Wamit GDF
+
+## Contributing
+Contributions are welcome! If you have any bug reports, feature requests, or code improvements, please submit them as issues or pull requests on the [GitHub repository](https://github.com/cemkod/blender-wamit-import).
+
+## License
+This addon is licensed under the MIT License. See the [LICENSE](https://github.com/cemkod/blender-wamit-import/blob/main/LICENSE) file for more details.
